@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031458484873",
+    "project_id": "fir-gk-634ab",
+    "storage_bucket": "fir-gk-634ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031458484873:android:c8024bef1f4922506fcc58",
+        "android_client_info": {
+          "package_name": "com.example.demo_gk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ42F-4D_Cyg9RZ372pRBmGBhWUb-rTXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
